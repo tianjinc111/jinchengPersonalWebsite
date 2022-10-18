@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jinchengPersonalWebsite/static/css/main.5b987e6e.css",
+    "main.js": "/jinchengPersonalWebsite/static/js/main.3f09857d.js",
+    "static/js/787.8c472aaf.chunk.js": "/jinchengPersonalWebsite/static/js/787.8c472aaf.chunk.js",
+    "index.html": "/jinchengPersonalWebsite/index.html",
+    "main.5b987e6e.css.map": "/jinchengPersonalWebsite/static/css/main.5b987e6e.css.map",
+    "main.3f09857d.js.map": "/jinchengPersonalWebsite/static/js/main.3f09857d.js.map",
+    "787.8c472aaf.chunk.js.map": "/jinchengPersonalWebsite/static/js/787.8c472aaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b987e6e.css",
+    "static/js/main.3f09857d.js"
+  ]
+}
