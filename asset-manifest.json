@@ -1,15 +1,33 @@
 {
   "files": {
-    "main.css": "/jinchengPersonalWebsite/static/css/main.5b987e6e.css",
-    "main.js": "/jinchengPersonalWebsite/static/js/main.3f09857d.js",
+    "main.css": "/jinchengPersonalWebsite/static/css/main.876ee87f.css",
+    "main.js": "/jinchengPersonalWebsite/static/js/main.a887d95f.js",
     "static/js/787.8c472aaf.chunk.js": "/jinchengPersonalWebsite/static/js/787.8c472aaf.chunk.js",
+    "static/media/WechatIMG1059.jpeg": "/jinchengPersonalWebsite/static/media/WechatIMG1059.9b6341fd8d617541aa10.jpeg",
+    "static/media/technicalWriting.png": "/jinchengPersonalWebsite/static/media/technicalWriting.642cbf6f2085ce36e472.png",
+    "static/media/machineLearning.png": "/jinchengPersonalWebsite/static/media/machineLearning.bf27bebdb9cb04673b22.png",
+    "static/media/datavisual.png": "/jinchengPersonalWebsite/static/media/datavisual.20962ab70801d5b67662.png",
+    "static/media/hadoop.svg": "/jinchengPersonalWebsite/static/media/hadoop.28101dac003f025c8cf2e56ffac02e81.svg",
+    "static/media/postman.svg": "/jinchengPersonalWebsite/static/media/postman.c74cd48d00339ba03ff2e6ed3f9d0c4d.svg",
+    "static/media/mysql.svg": "/jinchengPersonalWebsite/static/media/mysql.0367d52d3979706e08af53b370212d91.svg",
+    "static/media/java.svg": "/jinchengPersonalWebsite/static/media/java.c0e46691671c8b80dd949a64036056c4.svg",
+    "static/media/aws.svg": "/jinchengPersonalWebsite/static/media/aws.e8632a6a2727308aae89f4525570f822.svg",
+    "static/media/linux.svg": "/jinchengPersonalWebsite/static/media/linux.320b053c04d2754cc1968dc12ded96ce.svg",
+    "static/media/react.svg": "/jinchengPersonalWebsite/static/media/react.cd5d36ee013f2a07fa8c18fc69a0d3cc.svg",
+    "static/media/django.svg": "/jinchengPersonalWebsite/static/media/django.9103d859dbc2ae88b5e7a40384054884.svg",
+    "static/media/python.svg": "/jinchengPersonalWebsite/static/media/python.26b76827cf9b215017580e6c17e46dc7.svg",
+    "static/media/matlab.svg": "/jinchengPersonalWebsite/static/media/matlab.9b1c652c400d4de01630f6d5b8d0ba2a.svg",
+    "static/media/school.svg": "/jinchengPersonalWebsite/static/media/school.a41655f6d5350015803153c7410cef6a.svg",
+    "static/media/spring-boot.svg": "/jinchengPersonalWebsite/static/media/spring-boot.bfc133ee865c798b801a32b1fdc8677f.svg",
+    "static/media/mongodb.svg": "/jinchengPersonalWebsite/static/media/mongodb.e724ad15967faee78912f00241651cad.svg",
+    "static/media/work.svg": "/jinchengPersonalWebsite/static/media/work.3710b62484ed638074240e99317c6c60.svg",
     "index.html": "/jinchengPersonalWebsite/index.html",
-    "main.5b987e6e.css.map": "/jinchengPersonalWebsite/static/css/main.5b987e6e.css.map",
-    "main.3f09857d.js.map": "/jinchengPersonalWebsite/static/js/main.3f09857d.js.map",
+    "main.876ee87f.css.map": "/jinchengPersonalWebsite/static/css/main.876ee87f.css.map",
+    "main.a887d95f.js.map": "/jinchengPersonalWebsite/static/js/main.a887d95f.js.map",
     "787.8c472aaf.chunk.js.map": "/jinchengPersonalWebsite/static/js/787.8c472aaf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b987e6e.css",
-    "static/js/main.3f09857d.js"
+    "static/css/main.876ee87f.css",
+    "static/js/main.a887d95f.js"
   ]
 }
